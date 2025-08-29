@@ -99,12 +99,10 @@
 </div>
 
 ---
-
-### 🌟 GitHub Activity Graph
+### 🌟 GitHub Highlights
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aantaaraaa&theme=github-compact" alt="aantaaraaa activity graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aantaaraaa&theme=github_dark" alt="aantaaraaa summary card" />
 </p>
-
 ---
 
 ### ☕ Support Me
