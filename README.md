@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Girl Coding" width="700" />
+  <img src="https://media.tenor.com/UuVrGUOrbNQAAAAd/phonk-girl.gif" alt="Phonk Girl Coding" width="700"/>
 </p>
 
 ---
