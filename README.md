@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</p>
+
+---
+
 <h1 align="center">Hi 👋, I'm Antara Chanda</h1>
 <h3 align="center">A UX Designer & Full-Stack Developer</h3>
 
