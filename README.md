@@ -96,7 +96,6 @@
     </tr>
   </table>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aantaaraaa&theme=dark&hide_border=true" width="90%" />
 </div>
 
 ---
