@@ -84,7 +84,6 @@
 ---
 
 <h2>📊 GitHub Stats</h2>
-
 <div align="center">
   <table>
     <tr>
@@ -102,10 +101,9 @@
 
 ---
 
-### 🌟 GitHub Highlights
-
+### 🌟 GitHub Activity Graph
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aantaaraaa&theme=github_dark" alt="aantaaraaa summary card" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aantaaraaa&theme=github-compact" alt="aantaaraaa activity graph" />
 </p>
 
 ---
