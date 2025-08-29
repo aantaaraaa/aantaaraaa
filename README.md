@@ -77,7 +77,11 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aantaaraaa&theme=flat" alt="aantaaraaa trophies" />
+  <!-- GitHub ReadMe Stats for aantaaraaa -->
+  <img src="https://github-readme-stats.vercel.app/api?username=aantaaraaa&show_icons=true&theme=flat" alt="aantaaraaa stats" />
+  <br/>
+  <!-- GitHub Achievements/Metrics for aantaaraaa (requires setup if you want it live) -->
+  <img src="https://github.com/aantaaraaa/aantaaraaa/raw/main/github-metrics.svg" alt="aantaaraaa metrics" />
 </p>
 
 
