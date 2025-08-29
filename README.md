@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Girl Coding" width="700" />
 </p>
 
 ---
@@ -103,13 +103,6 @@
   </table>
   <br/>
 </div>
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/aantaaraaa?label=Follow&style=social" />
-  <img src="https://img.shields.io/github/stars/aantaaraaa?style=social" />
-</p>
 
 ---
 
