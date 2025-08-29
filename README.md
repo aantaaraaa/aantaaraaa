@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://media.tenor.com/UuVrGUOrbNQAAAAd/phonk-girl.gif" alt="Phonk Girl Coding" width="700"/>
-</p>
-
----
-
 <h1 align="center">Hi 👋, I'm Antara Chanda</h1>
 <h3 align="center">A UX Designer & Full-Stack Developer</h3>
 
