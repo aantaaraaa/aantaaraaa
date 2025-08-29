@@ -2,6 +2,7 @@
 <h3 align="center">A UX Designer & Full-Stack Developer</h3>
 
 <p align="center">
+  <!-- Profile views -->
   <img src="https://komarev.com/ghpvc/?username=aantaaraaa&label=Profile+views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
@@ -9,7 +10,7 @@
 
 ### 🌱 About Me
 
-- 🧠 Currently learning: *Design systems, Web accessibility, TypeScript, Next.js 14*
+- 🧠 Currently learning: *Design systems, Web accessibility, TypeScript, Next.js 14*  
 - 💼 Portfolio: [antara-chanda-portfolio.vercel.app](https://antara-chanda-portfolio.vercel.app/)
 - 💬 Ask me about: *UX strategy, React, Vue, GSAP animations, full-stack architecture*
 - 📫 Reach me at: *sheisanengineer187@gmail.com*
@@ -39,6 +40,7 @@
 ### 🛠 Languages & Tools
 
 <p align="left">
+  <!-- All your logo HTML remains unchanged, paste as in your original above -->
   <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
@@ -81,24 +83,7 @@
 
 ---
 
-### 📚 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/aantaaraaa/project1">
-    <b>🌟 Project One:</b> Amazing UI/UX library<br>
-    <img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=aantaaraaa&repo=project1&theme=dark&hide_border=true"/>
-  </a>
-  <br><br>
-  <a href="https://github.com/aantaaraaa/project2">
-    <b>🚀 Project Two:</b> Full-Stack SaaS Boilerplate<br>
-    <img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=aantaaraaa&repo=project2&theme=dark&hide_border=true"/>
-  </a>
-</p>
-<!-- Change project1 and project2 to your actual repo names and adjust descriptions as needed -->
-
----
-
-### 📊 GitHub Stats
+<h2>📊 GitHub Stats</h2>
 
 <div align="center">
   <table>
@@ -117,6 +102,14 @@
 
 ---
 
+### 🌟 GitHub Highlights
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aantaaraaa&theme=github_dark" alt="aantaaraaa summary card" />
+</p>
+
+---
+
 ### ☕ Support Me
 
 <p align="center">
@@ -127,6 +120,7 @@
 
 ---
 
+<!-- Contribution grid snake animation -->
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -141,5 +135,4 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
-
 
