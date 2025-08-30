@@ -14,7 +14,7 @@
 - 💼 Portfolio: [antara-chanda-portfolio.vercel.app](https://antara-chanda-portfolio.vercel.app/)
 - 💬 Ask me about: *UX strategy, React, Vue, GSAP animations, full-stack architecture*
 - 📫 Reach me at: *sheisanengineer187@gmail.com*
-- ⚡ Fun fact: "I turn coffee into wireframes—and sometimes actual code!"
+- ⚡ Fun fact: "Hiring me brings out hidden superpowers in your team and unlocks next-level success"
 
 ---
 
