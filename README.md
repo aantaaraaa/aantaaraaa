@@ -12,7 +12,7 @@
 
 - 🧠 Currently learning: *TypeScript, CI/CD, System Design, Docker, Kubernetes, Microservices, AWS*  
 - 💼 Portfolio: [antara-chanda-portfolio.vercel.app](https://antara-chanda-portfolio.vercel.app/)
-- 💬 Ask me about: *UI/UX, React.js, Next.js, Node.js, Express.js, MongoDB, Full-stack architecture*
+- 💬 Ask me about: *UX strategy, React.js, Next.js, Node.js, Express.js, MongoDB, Full-stack architecture*
 - 📫 Reach me at: *sheisanengineer187@gmail.com*
 - ⚡ Fun fact: Hiring me brings out hidden superpowers in your team and unlocks next-level success!
 
