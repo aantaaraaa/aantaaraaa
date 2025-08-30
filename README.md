@@ -12,9 +12,9 @@
 
 - 🧠 Currently learning: *Design systems, Web accessibility, TypeScript, Next.js 14*  
 - 💼 Portfolio: [antara-chanda-portfolio.vercel.app](https://antara-chanda-portfolio.vercel.app/)
-- 💬 Ask me about: *UX strategy, React, Vue, GSAP animations, full-stack architecture*
+- 💬 Ask me about: *UX strategy, React, Next, GSAP animations, full-stack architecture*
 - 📫 Reach me at: *sheisanengineer187@gmail.com*
-- ⚡ Fun fact: "Hiring me brings out hidden superpowers in your team and unlocks next-level success"
+- ⚡ Fun fact: "Hiring me reveals secret talents in your team and opens new achievements"
 
 ---
 
