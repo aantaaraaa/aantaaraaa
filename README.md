@@ -83,7 +83,7 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aantaaraaa&show_icons=true&theme=radical&hide_border=false&border_color=FF69B4" height="150px"/>
