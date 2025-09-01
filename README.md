@@ -83,15 +83,15 @@
 
 ---
 
-<h2>📊 GitHub Stats</h2>
+### 📊 GitHub Stats
 <div align="center">
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aantaaraaa&layout=compact&theme=dark&hide_border=true" height="175px"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aantaaraaa&layout=compact&theme=radical&hide_border=false&border_color=FF69B4" height="175px"/>
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=aantaaraaa&show_icons=true&theme=dark&hide_border=true" height="175px"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=aantaaraaa&show_icons=true&theme=radical&hide_border=false&border_color=FF69B4" height="175px"/>
       </td>
     </tr>
   </table>
@@ -100,9 +100,9 @@
 
 ---
 
-### 🎯 Consistency Stats
+### 🌸 Consistency Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aantaaraaa&theme=github-dark&hide_border=false&border=2BFC83&background=0D1117" alt="aantaaraaa GitHub Streak" style="border-radius:8px; border:2px solid #2BFC83;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aantaaraaa&theme=rose_pine&hide_border=false&border=FF69B4&background=0D1117" alt="aantaaraaa GitHub Streak"/>
 </p>
 
 ---
