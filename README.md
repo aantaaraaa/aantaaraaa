@@ -100,9 +100,9 @@
 
 ---
 
-### 🌟 GitHub Highlights
+### 🟩 GitHub Contribution Graph
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aantaaraaa&theme=github_dark" alt="aantaaraaa summary card" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=aantaaraaa&theme=github-dark&area=true" alt="aantaaraaa activity graph" />
 </p>
 
 ---
