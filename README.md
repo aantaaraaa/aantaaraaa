@@ -100,9 +100,9 @@
 
 ---
 
-### 🟩 GitHub Contribution Graph
+### 🔥 GitHub Streak Stats
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/api?username=aantaaraaa&theme=github-dark&area=true" alt="aantaaraaa activity graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aantaaraaa&theme=github-dark&hide_border=true" alt="aantaaraaa GitHub Streak"/>
 </p>
 
 ---
