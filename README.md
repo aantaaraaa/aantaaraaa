@@ -100,9 +100,9 @@
 
 ---
 
-### 🟩 GitHub Contribution Graph
+### 🟩 GitHub Contribution Stats
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=aantaaraaa&theme=github-dark&area=true" alt="aantaaraaa activity graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aantaaraaa&show_icons=true&theme=github_dark" alt="aantaaraaa GitHub Stats" />
 </p>
 
 ---
