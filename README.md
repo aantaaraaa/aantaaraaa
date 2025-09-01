@@ -100,9 +100,9 @@
 
 ---
 
-### 🔥 GitHub Streak Stats
+### 🎯 Consistency Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aantaaraaa&theme=github-dark&hide_border=true" alt="aantaaraaa GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aantaaraaa&theme=github-dark&hide_border=false&border=2BFC83&background=0D1117" alt="aantaaraaa GitHub Streak" style="border-radius:8px; border:2px solid #2BFC83;"/>
 </p>
 
 ---
