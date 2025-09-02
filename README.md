@@ -97,14 +97,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aantaaraaa&theme=radical&no-frame=false&no-bg=false&margin-w=10" />
-</p>
-
----
-
 ### 💡 Daily Wisdom
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?theme=radical" alt="Random Quote" />
