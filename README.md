@@ -105,6 +105,13 @@
 
 ---
 
+### 🎲 Daily Inspiration
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?theme=radical" alt="Random Quote" />
+</p>
+
+---
+
 ### ☕ Support Me
 
 <p align="center">
