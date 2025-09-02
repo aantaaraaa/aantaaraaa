@@ -97,6 +97,14 @@
 
 ---
 
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aantaaraaa&theme=radical&no-frame=false&no-bg=false&margin-w=10" />
+</p>
+
+---
+
 ### ☕ Support Me
 
 <p align="center">
