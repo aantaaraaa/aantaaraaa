@@ -7,21 +7,30 @@
 </p>
 
 ---
+
 ### 🌱 About Me
-- 🧠 Currently learning: *TypeScript, CI/CD, System Design, Kubernetes, Microservices, Cloud Computing*  
+
+- 🧠 Currently learning: **TypeScript, CI/CD, System Design, Kubernetes, Microservices, Cloud Computing**
 - 💼 Portfolio: [antara-chanda-portfolio.vercel.app](https://antara-chanda-portfolio.vercel.app/)
-- 💬 Ask me about: *UX strategies, React.js, Next.js, Node.js, Express.js, MongoDB, Full-stack architecture*
-- 📫 Reach me at: *sheisanengineer187@gmail.com*
+- 💬 Ask me about: **UX strategies, React.js, Next.js, Node.js, Express.js, MongoDB, Full-stack architecture**
+- 📫 Reach me at: **sheisanengineer187@gmail.com**
 - ⚡ Fun fact: Hiring me brings out hidden superpowers in your team and unlocks next-level success!
 
 ---
 
 ### 🌐 Connect with Me
 
-<a href="https://www.linkedin.com/in/meantaraa/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a>
-<a href="https://x.com/aantaaraaa" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" alt="Twitter" height="40" width="40" /></a>
+<div align="center">
+  <a href="https://www.linkedin.com/in/meantaraa/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
+  </a>
+  <a href="https://x.com/aantaaraaa" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" alt="X (Twitter)" height="40" width="40" />
+  </a>
+</div>
 
 ---
+
 ### 💻 Tech Stack
 
 <p align="center">
@@ -29,6 +38,7 @@
 </p>
 
 ---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -38,15 +48,18 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aantaaraaa&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=false&border_color=FF69B4" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aantaaraaa&layout=compact&theme=radical&hide_border=false&border_color=FF69B4&background=0D1117" height="150px"/>
 </p>
 
 ---
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aantaaraaa&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aantaaraaa&theme=radical&margin-w=15&no-bg=true&column=7" />
 </p>
+
+---
 
 ### 💡 Daily Wisdom
 
@@ -54,14 +67,16 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
 </p>
 
+---
+
 ### ☕ Support Me
 
 <p align="center">
   <a href="https://buymeacoffee.com/meantaraa" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="210" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="github contribution grid snake animation" />
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation" />
 </p>
