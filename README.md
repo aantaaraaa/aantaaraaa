@@ -48,16 +48,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=aantaaraaa&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" height="180"/>
-  
-  <!-- Streak Card (fixed) -->
-  <img src="https://streak-stats.demolab.com?user=aantaaraaa&theme=radical&hide_border=false" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aantaaraaa&show_icons=true&theme=radical&hide_border=false&border_color=FF69B4" height="150px"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aantaaraaa&theme=rose_pine&hide_border=false&border_color=FF69B4&background=0D1117" height="150px"/>
 </p>
 
 <p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aantaaraaa&layout=compact&theme=radical&hide_border=false" alt="Most Used Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aantaaraaa&layout=compact&theme=radical&hide_border=false&border_color=FF69B4" height="200px"/>
 </p>
 
 ---
