@@ -15,16 +15,11 @@
 - ⚡ Fun fact: Hiring me brings out hidden superpowers in your team and unlocks next-level success!
 
 ---
+
 ### 🌐 Connect with Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/meantaraa/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://x.com/aantaaraaa" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/meantaraa/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a>
+<a href="https://x.com/aantaaraaa" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" alt="Twitter" height="40" width="40" /></a>
 
 ---
 ### 💻 Tech Stack
