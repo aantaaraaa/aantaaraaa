@@ -48,17 +48,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aantaaraaa&theme=radical" alt="Profile Details" />
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aantaaraaa&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=aantaaraaa&theme=radical&hide_border=false" alt="GitHub Streak" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aantaaraaa&theme=radical" alt="Top Languages by Repo" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aantaaraaa&theme=radical" alt="Top Languages by Commit" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aantaaraaa&theme=radical" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aantaaraaa&theme=radical&utcOffset=5.5" alt="Commits by Time" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aantaaraaa&layout=compact&theme=radical&hide_border=false" alt="Most Used Languages" height="180"/>
 </p>
 
 ---
