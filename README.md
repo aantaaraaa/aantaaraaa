@@ -104,11 +104,6 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a>
-  <!-- Notion moved to last -->
-  <a href="https://www.notion.so/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/notion/notion-icon.svg" alt="notion" width="40" height="40"/> 
-  </a>
-</p>
 
 ---
 
