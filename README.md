@@ -48,12 +48,17 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Stats Card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aantaaraaa&theme=radical" alt="GitHub Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aantaaraaa&theme=radical" alt="Profile Details" />
+</p>
 
-  <!-- Contribution Stats -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aantaaraaa&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aantaaraaa&theme=radical&utcOffset=5.5" alt="Productive Time" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aantaaraaa&theme=radical" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aantaaraaa&theme=radical" alt="Top Languages by Commit" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aantaaraaa&theme=radical" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aantaaraaa&theme=radical&utcOffset=5.5" alt="Commits by Time" />
 </p>
 
 ---
@@ -63,6 +68,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=aantaaraaa&theme=radical&no-frame=false&no-bg=true&margin-w=15&margin-h=15" />
 </p>
+
 
 
 ### 💡 Daily Wisdom
