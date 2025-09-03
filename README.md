@@ -92,6 +92,9 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
   </a>
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
+  </a>
   <a href="https://vercel.com/" target="_blank" rel="noreferrer"> 
     <img src="https://assets.vercel.com/image/upload/v1662130559/front/favicon/vercel/180x180.png" alt="vercel" width="40" height="40"/> 
   </a>
@@ -100,6 +103,10 @@
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+  </a>
+  <!-- Notion moved to last -->
+  <a href="https://www.notion.so/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/notion/notion-icon.svg" alt="notion" width="40" height="40"/> 
   </a>
 </p>
 
