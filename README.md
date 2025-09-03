@@ -65,7 +65,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=aantaaraaa&theme=radical&no-frame=false&no-bg=true&margin-w=15&margin-h=15" />
 </p>
 
-
+---
 
 ### 💡 Daily Wisdom
 <p align="center">
