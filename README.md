@@ -48,15 +48,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-
-## 📊 GitHub Stats
-
-<p align="center">
+  <!-- Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=aantaaraaa&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" height="180"/>
+  
+  <!-- Streak Card (fixed) -->
   <img src="https://streak-stats.demolab.com?user=aantaaraaa&theme=radical&hide_border=false" alt="GitHub Streak" height="180"/>
 </p>
 
 <p align="center">
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aantaaraaa&layout=compact&theme=radical&hide_border=false" alt="Most Used Languages" height="180"/>
 </p>
 
