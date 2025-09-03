@@ -7,9 +7,7 @@
 </p>
 
 ---
-
 ### 🌱 About Me
-
 - 🧠 Currently learning: *TypeScript, CI/CD, System Design, Kubernetes, Microservices, Cloud Computing*  
 - 💼 Portfolio: [antara-chanda-portfolio.vercel.app](https://antara-chanda-portfolio.vercel.app/)
 - 💬 Ask me about: *UX strategies, React.js, Next.js, Node.js, Express.js, MongoDB, Full-stack architecture*
@@ -17,16 +15,18 @@
 - ⚡ Fun fact: Hiring me brings out hidden superpowers in your team and unlocks next-level success!
 
 ---
-
 ### 🌐 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/meantaraa/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
+  <a href="https://x.com/aantaaraaa" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+</p>
 
 ---
-
 ### 💻 Tech Stack
 
 <p align="center">
@@ -34,59 +34,39 @@
 </p>
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aantaaraaa&show_icons=true&theme=radical&hide_border=false&border_color=FF69B4" height="150px"/>
-  &nbsp;&nbsp;
+   
   <img src="https://github-readme-streak-stats.herokuapp.com?user=aantaaraaa&theme=rose_pine&hide_border=false&border_color=FF69B4&background=0D1117" height="150px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aantaaraaa&layout=compact&theme=radical&hide_border=false&border_color=FF69B4" height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aantaaraaa&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=false&border_color=FF69B4" />
 </p>
 
 ---
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aantaaraaa&theme=radical&no-frame=false&no-bg=true&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aantaaraaa&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 </p>
-
----
 
 ### 💡 Daily Wisdom
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?theme=radical" alt="Random Quote" />
-</p>
 
----
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
+</p>
 
 ### ☕ Support Me
 
 <p align="center">
-  <a href="https://buymeacoffee.com/meantaraa">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+  <a href="https://buymeacoffee.com/meantaraa" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="210" />
   </a>
 </p>
 
----
-
-<!-- Contribution grid snake animation -->
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="github contribution grid snake animation" />
+</p>
