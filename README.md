@@ -39,7 +39,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aantaaraaa&show_icons=true&theme=radical&hide_border=false" height="150px"/>
-  <img src="https://streak-stats.demolab.com?user=aantaaraaa&theme=radical&hide_border=false" height="150px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aantaaraaa&theme=radical&hide_border=false" height="150px"/>
 </p>
 
 <p align="center">
