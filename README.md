@@ -37,15 +37,9 @@
 
 ## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aantaaraaa&show_icons=true&theme=radical&hide_border=false&border_color=FF69B4" height="150px"/>
-   
-  <img src="https://streak-stats.demolab.com?user=aantaaraaa&theme=rose_pine&hide_border=false&border_color=FF69B4&background=0D1117" height="150px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aantaaraaa&layout=compact&theme=radical&hide_border=false&border_color=FF69B4&background=0D1117" height="150px"/>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=aantaaraaa&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=aantaaraaa&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aantaaraaa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
