@@ -35,7 +35,7 @@
 
 ---
 
-## 📊 GitHub Stats  
+### 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aantaaraaa&show_icons=true&theme=radical&hide_border=false" height="150px"/>
@@ -48,7 +48,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=aantaaraaa&theme=radical&margin-w=15&no-bg=true&column=7" />
