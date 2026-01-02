@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://antara-chanda-portfolio.vercel.app/](https://antara-chanda-portfolio.vercel.app/)
 
-- 📝 I regularly write articles on [https://medium.com/@antarachanda](https://medium.com/@antarachanda)
-
 - 💬 Ask me about **UX Strategy, React, GSAP animations, Data structures and algorithms**
 
 - 📫 How to reach me **antara00418@gmail.com**
